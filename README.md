@@ -1,4 +1,4 @@
-# libft
+# libft ✅125/100
 My first static library in C
 
 Contain extra functions that I've implemented later in my cursus
