@@ -6,8 +6,7 @@ Contain extra functions that I've implemented later in my cursus
 - ![LIBFT subject](fr.libft.subject.pdf)
 
 To get the static library, you must do these commands :
-```
-#!/bin/bash
+```ruby
 cd libft
 make
 ```
