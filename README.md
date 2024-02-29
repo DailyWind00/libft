@@ -18,4 +18,7 @@ make clean
 
 # Clean static library & object files
 make fclean
+
+# Clean everything and recompile the static library
+make re
 ```
