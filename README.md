@@ -5,6 +5,9 @@ Contain extra functions that I've implemented later in my cursus
 
 - ![LIBFT subject](fr.libft.subject.pdf)
 
+My libft pass the francinette tester :
+- [Link to the francinette github](https://github.com/xicodomingues/francinette)
+
 To get the static library, you must do these commands :
 ```shell
 cd libft
