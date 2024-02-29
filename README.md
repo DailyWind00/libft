@@ -10,3 +10,12 @@ To get the static library, you must do these commands :
 cd libft
 make
 ```
+
+You also have theses commands for cleaning the libft directory :
+```shell
+# Clean all object files (*.o)
+make clean
+
+# Clean static library & object files
+make fclean
+```
