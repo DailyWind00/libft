@@ -14,7 +14,7 @@ cd libft
 make
 ```
 
-You also have theses commands for cleaning the libft directory :
+You also have these commands for cleaning the libft directory :
 ```shell
 # Clean all object files (*.o)
 make clean
