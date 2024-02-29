@@ -3,7 +3,7 @@ My first static library in C
 
 Contain extra functions that I've implemented later in my cursus
 
-- ![LIBFT subject](fr.libft.subject.pdf)
+- ![libft subject](fr.libft.subject.pdf)
 
 My libft pass the francinette tester :
 - [Link to the francinette github](https://github.com/xicodomingues/francinette)
