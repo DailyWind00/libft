@@ -7,6 +7,7 @@ Contain extra functions that I've implemented later in my cursus
 
 To get the static library, you must do these commands :
 ```
+#!/bin/bash
 cd libft
 make
 ```
